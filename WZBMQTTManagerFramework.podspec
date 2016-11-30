@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'WZBMQTTManager'
+  s.name             = 'WZBMQTTManagerFramework'
   s.version          = '1.0.0'
   s.summary          = 'WZBMQTTManager is encapsulation of MQTTClient.'
 
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 # TODO: Add long description of the pod here.
                        # DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/WZBMQTTManager'
+  s.homepage         = 'https://github.com/wzbdroidPersonal/WZBMQTTManagerFramework'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wuzhengbin' => 'wzbdroid@gmail.com' }
