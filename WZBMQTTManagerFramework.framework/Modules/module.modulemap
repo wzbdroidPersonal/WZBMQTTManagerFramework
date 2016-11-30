@@ -1,0 +1,6 @@
+framework module WZBMQTTManager {
+  umbrella header "WZBMQTTManager.h"
+
+  export *
+  module * { export * }
+}
