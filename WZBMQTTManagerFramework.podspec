@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
 
   # s.source_files = 'WZBMQTTManager/Classes/**/*'
-  s.vendored_frameworks="WZBMQTTManagerFramework.framework"
+  s.vendored_frameworks="WZBMQTTManager.framework"
   
   # s.resource_bundles = {
   #   'WZBMQTTManager' => ['WZBMQTTManager/Assets/*.png']
